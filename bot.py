@@ -44,4 +44,4 @@ async def leave(ctx):
     else:
         await ctx.send("أنا لست في أي روم صوتي أساساً!")
 
-bot.run(os.getenv("DISCORD_TOKEN"))
+bot.run("MTUyOTk1MDk3MzgyNzQ4NTc0Nw.GZaWYR.zsvy3zfJF2dWCfr_cV7RxT84GxJTuiKTkEWoNs")
